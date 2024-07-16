@@ -1,7 +1,7 @@
 Hi 👋 My name is Danilo
 =======================
 
-Software engineer | Solutions Architect
+Software engineer | Aspiring Solutions Architect
 ---------------------------------------
 
 I am a software engineer with a relentless passion for learning and exploring new technologies. Continuously seeking to expand my skill set and embrace new challenges, I thrive on staying at the forefront of the tech industry.
